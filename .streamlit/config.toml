@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#DF1F2D"         # Spidey red
+backgroundColor = "#030104"      # Almost black
+secondaryBackgroundColor = "#0E1117"
+textColor = "#FAFAFA"
+font = "sans serif"
